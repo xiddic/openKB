@@ -13,7 +13,7 @@
 	"Powered by": "'den besleniyor",
 	"Home": "Ana sayfası",
 	"Articles": "Makaleler",
-	"Filter articles": "Makalelerı süz",
+	"Filter articles": "Makalelerı süz1",
 	"Filter": "Süz",
 	"Reset": "Sıfırla",
 	"All": "Bütün",
