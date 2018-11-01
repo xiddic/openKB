@@ -1,8 +1,8 @@
 {
 	"Toggle navigation": "Växla navigering",
 	"Users": "Användare",
-	"New": "Ny",
-	"Edit": "Redigera",
+	"New": "Nytt",
+	"Edit": "Redigerade",
 	"My account": "Mitt konto",
 	"Article": "Artikel",
 	"Settings": "Inställningar",
